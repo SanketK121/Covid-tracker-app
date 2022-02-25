@@ -11,7 +11,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="17dp"
-        android:text="COVIDCASEUPDATE"
+        android:text="Covid-19"
         android:textColor="@color/active"
         android:textSize="24sp" />
 
