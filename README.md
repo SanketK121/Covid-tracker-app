@@ -7,7 +7,7 @@ The purpose of this android application is to showcase the active COVID-19 cases
 ## Features
 
 - State-wise COVID-19 statistics: The application displays the number of active COVID-19 cases and deaths for each state.
-- 
+
 ## Data Source
 
 The data used in this application is obtained from Kaggle specifically focuses on COVID-19 statistics for each state, providing information on active cases and deaths.
